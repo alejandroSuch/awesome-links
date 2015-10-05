@@ -1,5 +1,8 @@
 # CSS
 
+## Animation
+ - [Handy web animation tools](https://medium.com/@vilcins/handy-web-animations-tools-8faff4790b1c)
+
 ## Frameworks
  - [Open UI 5](http://openui5.org)
  
